@@ -16,3 +16,6 @@ TradePro is needed to add a safe trading system to the server to prevent scammin
 - **User-Friendly**: Simple and intuitive interface that makes trading between players easy and trustworthy
 
 This addresses the issue of player scamming by providing a structured, safe environment for item exchanges on the server.
+
+## Geyser Compatibility
+TradePro is compatible with Geyser and works for Bedrock Edition players. The plugin uses standard Minecraft inventory GUIs which Geyser translates properly for Bedrock clients, allowing both Java and Bedrock players to use the trading system seamlessly.
